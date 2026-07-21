@@ -19,12 +19,12 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6r0179_000-X.yaml, hash: 'sha256:8bb6a7c56c7f8d40e88842c6d3f3ec62f07651599f17962175fce8a88bb9b488'}
+  - {seq: 0, filename: KR6r0179_000-X.yaml, hash: 'sha256:42df075dd660e97a0073dd1e0d6d1bc25d4e8ecc3ecffc463b09423eae641baa'}
   - {seq: 1, filename: KR6r0179_001-X.yaml, hash: 'sha256:bf7753f8ae9be8fa40f40e49ff206a56b3c76f4d49b1373ace55f09c2f40cf26'}
   - {seq: 2, filename: KR6r0179_002-X.yaml, hash: 'sha256:a1425f2b7b7030317f22d312ba5ad5c15f59f02bc16700360b424dfa2dc41e90'}
   - {seq: 3, filename: KR6r0179_003-X.yaml, hash: 'sha256:2d16bac48750f1384160355f2ded4b9e8502d4b9b0c1b6f5632d7167ebda65c6'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6r0179_000-X.markers.yaml, hash: 'sha256:42d564a729c114ea84a9b12a3189ba21b7979946981ed9cff22fd1337bf7fbf8'}
+  - {seq: 0, role: markers, filename: assets/KR6r0179_000-X.markers.yaml, hash: 'sha256:88de525bad1f602e5bfbaec22ee702f33b237f378e1b6a1def3acffff7cb3be5'}
   - {seq: 1, role: markers, filename: assets/KR6r0179_001-X.markers.yaml, hash: 'sha256:3c78a947c4450386aced608921abf6b63e34d53da8f03167a53110e9f3069265'}
   - {seq: 2, role: markers, filename: assets/KR6r0179_002-X.markers.yaml, hash: 'sha256:0bbcef7181348bb667b796d869707f0ca078ff5f399928fc66a8c15af5c42f6a'}
   - {seq: 3, role: markers, filename: assets/KR6r0179_003-X.markers.yaml, hash: 'sha256:8f8c67c63dcc3e1cbce5a8e2043d72631095e51ea0556708c7b43c1bc28ccf6d'}
@@ -33,7 +33,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6r0179_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 金剛般若經靈驗傳目錄
@@ -1159,4 +1159,4 @@ table_of_contents:
   label: No. 1634-A 䟦
   type: mulu
   level: 1
-hash: sha256:f706d759fd81b4c522b4ef2e98afddbf3d3b79b86d0559f3c3258913accb504f
+hash: sha256:fbd20d59c97df71663b4b666452c6a1b06d384744bd31d3095957836979b299c
